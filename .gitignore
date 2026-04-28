@@ -1,0 +1,16 @@
+# Variables de entorno con credenciales
+.env
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

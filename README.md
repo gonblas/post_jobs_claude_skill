@@ -17,11 +17,8 @@ Skill para Claude Code que scrapea portales de empleo y publica ofertas automát
 
 ```bash
 # Opción A: Clonar en la carpeta de skills de Claude Code
-git clone https://github.com/TU_USUARIO/discord-jobs-skill.git ~/.claude/skills/discord-jobs
+git clone https://github.com/gonblas/discord-jobs-skill.git ~/.claude/skills/discord-jobs
 
-# Opción B: Clonar en cualquier lugar y copiar manualmente
-git clone https://github.com/TU_USUARIO/discord-jobs-skill.git
-cp -r discord-jobs-skill ~/.claude/skills/discord-jobs
 ```
 
 ### Paso 2: Configurar el Bot de Discord
